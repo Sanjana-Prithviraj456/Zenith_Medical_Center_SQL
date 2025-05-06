@@ -10,7 +10,7 @@
  * Ensures that feedback from patients is properly recorded to improve service quality of the hospital.
 
    # Entity Relationship Diagram
-
+![ER DIAGRAM](
 
 
   # Flow Structure
