@@ -10,7 +10,7 @@
  * Ensures that feedback from patients is properly recorded to improve service quality of the hospital.
 
    # Entity Relationship Diagram
-![ER DIAGRAM](
+![ER DIAGRAM](https://github.com/Sanjana-Prithviraj456/Zenith-Medical-Center/blob/main/ER%20Diagram.png)
 
 
   # Flow Structure
