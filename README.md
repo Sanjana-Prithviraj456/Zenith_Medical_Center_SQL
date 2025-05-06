@@ -11,7 +11,7 @@
 
    # Entity Relationship Diagram
 
-<img src= ">
+
 
   # Flow Structure
   1) Patient
