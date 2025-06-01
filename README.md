@@ -13,7 +13,7 @@
 ![ER DIAGRAM](https://github.com/Sanjana-Prithviraj456/Zenith-Medical-Center/blob/main/ER%20Diagram.png)
 
 
-  # Flow Structure
+  # Flow Structure of ER Diagram 
   1) Patient
   2) Doctors
   3) Departments
